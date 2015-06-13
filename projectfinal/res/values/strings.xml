@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Newster</string>
+    <string name="action_settings">Refresh</string>
+    <string name="count">0</string>
+     <string name="facebook_app_id">1459265111037467</string>
+    
+
+    <string-array name="category_array">
+        <item>Top Stories</item>
+        <item>Pakistan</item>
+        <item>Entertainment</item>
+        <item>Sports</item>
+        <item>Health</item>
+        <item>Science</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="login">Login</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="Title">Title</string>
+    <string name="Description">Description</string>
+    <string name="Url">Url</string>
+    <string name="Select_photo">Select photo</string>
+    <string name="Submit">Submit</string>
+    <string name="New_Text">New Text</string>
+    <string name="Small_Text">Small Text</string>
+    <string name="Medium_Text">Medium Text</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="Signup1">Signup</string>
+    
+    <string name="Headlines">Headlines</string>
+    <string name="offline_news">Offline News</string>
+   
+
+</resources>
